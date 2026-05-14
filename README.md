@@ -1,0 +1,1 @@
+Este proyecto busca explicar la arquitetura Cliente/Servidor mediante la realizacion de una pagina web sencilla y facil de manejar. Cabe recalcar que es una pagina web estatica. Este proyecto fue elaborado por Angel David Redondo Joleanis.
